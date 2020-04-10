@@ -1,0 +1,23 @@
+/**index.wxss**/
+.indexTitle{
+  color: #ccc;
+  margin:2px 0;
+  font-size: 20px;
+ }
+.indexInput{
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  padding:11px 10px;
+  width: 90%;
+  border-radius: 4px;
+ }
+ .indexButton{
+  padding:0 4px;
+  width: 93%;
+  color: #00BFFF;
+ }
+ .indexNologin{
+  color: #ccc;
+  font-size: 13px;
+ }
+ 
